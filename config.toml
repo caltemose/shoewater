@@ -1,0 +1,12 @@
+baseURL = "https://caltemose.github.io/shoewater/"
+languageCode = "en-us"
+
+title = "notes from shoewater"
+publishDir = "docs"
+theme = "tale"
+
+[Author]
+    name = "shoewater"
+
+[Params]
+    author = "shoewater"
