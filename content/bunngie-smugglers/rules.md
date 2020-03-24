@@ -2,6 +2,7 @@
 title: "Clan Rules"
 date: 2020-03-24T10:52:57-04:00
 draft: false
+menu: "main"
 ---
 
 This page lists the rules of the Bunngie Smugglers clan.
