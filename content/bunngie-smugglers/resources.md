@@ -2,7 +2,6 @@
 title: "Destiny Resources"
 date: 2020-03-24T10:54:59-04:00
 draft: false
-menu: "main"
 ---
 
 This page contains helpful online resources for Destiny for LFG, stats and gear management.
